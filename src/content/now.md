@@ -1,13 +1,13 @@
 ## Occupation
 
-Currently I am working as senior Web editor in Henkel. I have been
-working there for a little more then a year now. I am also working
-on developer projects, which are outside of the scope of my
+Currently I am working as **Senior Web editor in Henkel**. I have been
+working there for 18 months now. I am also working
+on web development focused projects, which are outside of the scope of my
 occupation, but are helpful in the long run.
 
 ## University
 
-In september I am starting my final year of university. So I
+I am finishing my second to last semester at university. So I
 thorouly working on my thesis, which is kind of related to my
 working experience. It is about **Software support in software development**.
 
